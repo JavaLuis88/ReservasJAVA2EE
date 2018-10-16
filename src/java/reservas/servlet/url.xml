@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<CONTROLADORES>
+
+    <CONTROLADOR>
+        
+        <NOMBRE>
+            M4R14
+            
+        </NOMBRE>
+            
+        
+        <URL>
+            /TCL.do  
+        </URL>
+        <CLASE>
+            
+            reservas.beans.Controlador2
+        </CLASE>  
+        <METODOGET>
+            1
+        </METODOGET>    
+        <METODOPOST>
+            1
+        </METODOPOST>    
+       
+                 
+    </CONTROLADOR>
+
+
+
+    <CONTROLADOR>
+        <NOMBRE>
+            SUPEREÑE
+            
+        </NOMBRE>
+        
+        <URL>
+            /TK.do  
+        </URL>
+        <CLASE>
+            
+            reservas.beans.Controlador5
+        </CLASE>  
+        <METODOGET>
+            1
+        </METODOGET>    
+        <METODOPOST>
+            1
+        </METODOPOST>    
+       
+        
+        
+        
+                 
+                                   
+    </CONTROLADOR>
+    
+    <NOMBRE>
+        6UR4
+            
+    </NOMBRE>
+    
+    <URL>
+        /JAVA.do  
+    </URL>
+    <CLASE>
+            
+        reservas.beans.Controlador5
+    </CLASE>  
+    <METODOGET>
+        1
+    </METODOGET>    
+    <METODOPOST>
+        1
+    </METODOPOST>    
+       
+
+
+</CONTROLADORES>
